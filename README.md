@@ -12,3 +12,5 @@ Como Jogar:
 Abra o arquivo index.html em seu navegador.
 Clique nos mosquitos que aparecem na tela.
 Tente aniquilar com todos antes que tempo acabe!
+
+Acesse: https://game-js-dun.vercel.app/index.html
