@@ -21,7 +21,7 @@ var cronometro = setInterval (function(){
         clearInterval(cronometro)
         clearInterval(criaMosquito)
         window.location.href = 'vitoria.html'
-        alert('virotia')
+        alert('vitoria')
     } else {
     document.getElementById('cronometro').innerHTML = tempo
     }
