@@ -1,4 +1,3 @@
-Jogo Matamosquitos
 Bem-vindo ao meu projeto do Jogo Matamosquitos! Este é um jogo simples e divertido desenvolvido em JavaScript e Bootstrap. O objetivo do jogo é clicar nos mosquitos que aparecem na tela dentro de um tempo limitado. É uma maneira divertida de praticar suas habilidades de apontar e clicar enquanto se diverte.
 
 Funcionalidades:
